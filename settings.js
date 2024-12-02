@@ -16,7 +16,7 @@ global.calender = d.toLocaleDateString('id')
 //================[. GLOBAL OWNER ]================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['256709824720] //masukin nmr lu
+global.owner = '256709824720' //masukin nmr lu
 global.ownMain = '256709824720' //masukin nmr lu
 global.NamaOwner = 'The Developer03' //gausah diganti 
 global.sessionName = 'session'

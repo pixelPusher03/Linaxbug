@@ -16,16 +16,16 @@ global.calender = d.toLocaleDateString('id')
 //================[. GLOBAL OWNER ]================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['62xxx', "62xxx"] //masukin nmr lu
-global.ownMain = '62xxx' //masukin nmr lu
-global.NamaOwner = 'Albert ZXP' //gausah diganti 
+global.owner = ['256709824720] //masukin nmr lu
+global.ownMain = '256709824720' //masukin nmr lu
+global.NamaOwner = 'The Developer03' //gausah diganti 
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'Albert ZXP' //ganti aj klo mau
-global.author = 'Abyy' //ganti aj klo mau
-global.packname = 'AlbertXZ' //ganti aj klo mau
-global.yt = 'https://www.youtube.com/@abyyyferr' //gausah diganti
-global.ch = 'https://whatsapp.com/channel/0029Van86kL5Ui2SgngDlZ3W'
+global.namabot = 'The Developer03' //ganti aj klo mau
+global.author = 'The Developer03' //ganti aj klo mau
+global.packname = 'The Developer03' //ganti aj klo mau
+global.yt = 'https://www.youtube.com/@the_developer03' //gausah diganti
+global.ch = 'https://whatsapp.com/channel/0029Va7qmJ4LNSa4HAXqg10u'
 
 //================[. GLOBAL RESPON ]================//
 global.mess = { // bagian ini gausah diganti 
